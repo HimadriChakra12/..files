@@ -1,0 +1,4 @@
+[custom0]
+binding='<Alt>Return'
+command='wezterm'
+name='Wezterm'
