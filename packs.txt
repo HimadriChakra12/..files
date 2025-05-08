@@ -1,0 +1,2 @@
+Pacman : wezterm, vesktop, firefox, spotify, quodlibet, qbittorrent, thunar, electron, htop, links, qimgv, vlc
+Flatpak : apostrophe, easyeffects, gearlever, links
