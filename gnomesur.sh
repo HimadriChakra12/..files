@@ -1,7 +1,8 @@
 #Installing
 sudo pacman -S thunar thunar-volman tumbler ffmpegthumbnailer \
   thunar-archive-plugin thunar-media-tags-plugin gvfs catfish
-yay -S apple-fonts
+pack = read -p "What Aur Helper do you use?"
+$pack -S apple-fonts
 
 # GTK Theme
 git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git
@@ -21,3 +22,4 @@ gsettings set org.gnome.desktop.interface icon-theme 'WhiteSur-dark'
 gsettings set org.gnome.desktop.interface cursor-theme 'WhiteSur-cursors'
 gsettings set org.gnome.desktop.interface font-name 'SF Pro Display 11'
 
+lxappearance &
