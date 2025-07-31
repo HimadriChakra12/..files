@@ -24,5 +24,8 @@
 "hide_settings_menu_downloads_and_storage": true,
 "hide_settings_menu_notification": true,
 "hide_settings_menu_parent_tools": true,
+"hide_song_video_toggle": true,
+"replace_navigation_samples_button": true,
 "replace_navigation_upgrade_button": true,
+"restore_old_comments_popup_panels": true,
 "restore_old_style_library_shelf": true
